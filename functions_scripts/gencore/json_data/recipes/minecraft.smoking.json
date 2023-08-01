@@ -1,0 +1,21 @@
+[
+  {
+    "dict_type": "validas",
+    "multipleIngredients": false,
+    "hardIngredient": true,
+    "multipleResults": false,
+    "hardResult": true,
+    "items": true,
+    "chances": false,
+    "countIngredient": false,
+    "countResult": false,
+    "fluids": false
+  },
+  {
+    "dict_type": "keys",
+    "keys": [
+      "cookingtime",
+      "experience"
+    ]
+  }
+]

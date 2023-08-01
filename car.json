@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "breadg"
+    },
+    "result": "breadg",
+    "cookingtime": 100,
+    "experience": 0.0
+}

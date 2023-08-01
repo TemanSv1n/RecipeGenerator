@@ -1,0 +1,20 @@
+[
+  {
+    "dict_type": "validas",
+    "multipleIngredients": true,
+    "hardIngredient": false,
+    "multipleResults": true,
+    "hardResult": false,
+    "items": true,
+    "chances": true,
+    "countIngredient": false,
+    "countResult": true,
+    "fluids": true
+  },
+  {
+    "dict_type": "keys",
+    "keys": [
+      "heatRequirement"
+    ]
+  }
+]

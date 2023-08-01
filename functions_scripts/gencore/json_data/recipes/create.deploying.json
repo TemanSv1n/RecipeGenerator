@@ -1,0 +1,20 @@
+[
+  {
+    "dict_type": "validas",
+    "multipleIngredients": true,
+    "hardIngredient": false,
+    "multipleResults": false,
+    "hardResult": false,
+    "items": true,
+    "chances": false,
+    "countIngredient": false,
+    "countResult": false,
+    "fluids": false
+  },
+  {
+    "dict_type": "keys",
+    "keys": [
+      "keepHeldItem"
+    ]
+  }
+]

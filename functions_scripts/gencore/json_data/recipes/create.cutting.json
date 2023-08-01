@@ -1,0 +1,20 @@
+[
+  {
+    "dict_type": "validas",
+    "multipleIngredients": false,
+    "hardIngredient": false,
+    "multipleResults": false,
+    "hardResult": false,
+    "items": true,
+    "chances": true,
+    "countIngredient": false,
+    "countResult": true,
+    "fluids": false
+  },
+  {
+    "dict_type": "keys",
+    "keys": [
+      "processingTime"
+    ]
+  }
+]

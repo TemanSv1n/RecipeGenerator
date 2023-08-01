@@ -1,0 +1,10 @@
+{
+  "chance": 1.00,
+  "count": 1,
+  "amount": 250,
+  "processingTime": 100,
+  "heatRequirement": "Delete 'key' if not needed",
+  "experience": 0.0,
+  "cookingtime": 100,
+  "keepHeldItem": false
+}
