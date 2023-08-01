@@ -387,7 +387,7 @@ class Window(wx.Frame):
         AddEntry()
 
     def onQuestion(self, event):
-        webbrowser.open_new_tab("https://stackoverflow.com/questions/29508872/how-to-use-webbrowser-to-open-the-link-when-it-is-clicked-in-wxpython-frame")
+        webbrowser.open_new_tab("https://github.com/TemanSv1n/RecipeGenerator/wiki")
 
 app = wx.App()
 wnd = Window(None, "Recipe gen", size = (760,480))
